@@ -1,2 +1,2 @@
 # image_colorization_using-GAN
-dataset link https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjBIbFQzUkhMREVpaXZZbmtNTnY2TVZrYW40Z3xBQ3Jtc0tuc0ZDZjhHSWpwc2N0S2oxcVdlWXhkSnZQdExVYmtZeDN2dzdDeHg2b0lZc0phU0NhUGlDVjBVS1VSZ3RmOTlLUUt1REVpemRySjE5UC1tN0pTdXd4R0xiVlJHZ2ZMQjlLeXBtN1RUSHh0UVF2Wk5PUQ&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F18ODl_6aMBWLxiOoq2U2mTuG_gKtQuxPl%3Fusp%3Dsharing&v=v88IUAsgfz0
+dataset_link  https://drive.google.com/file/d/1vvoM8aA7F32bdhIVQGrq4Y-FrVyZYpjT/view?usp=sharing
